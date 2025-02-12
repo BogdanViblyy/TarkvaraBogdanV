@@ -9,7 +9,11 @@ See projekt sisaldab kolme faili:
 Projekti eesmärk on luua lihtne veebileht, kus kasutaja saab nupu vajutamisel muuta lehe taustavärvi juhuslikuks.
 
 ## TODO List
-Täienda JavaScripti koodi - Tee nii, et iga nupuvajutus muudaks taustavärvi juhuslikuks.
+1. Täienda JavaScripti koodi - Tee nii, et iga nupuvajutus muudaks taustavärvi juhuslikuks.
+2. Pealkirja muutmine
+3. Peida/näita pealkiri
+4. Loeb, mitu korda on tausta muutmise nuppu vajutatud.
+5. css-i uuendamine
 ## Kuidas panustada
 1. Tee fork sellest repositooriumist.
 2. Tee muudatused vastavalt TODO listile.
