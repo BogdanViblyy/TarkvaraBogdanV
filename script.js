@@ -12,3 +12,14 @@ document.getElementById("muudaPealkiri").addEventListener("click", function() {
         document.getElementById("pealkiri").textContent = uusPealkiri;
     }
 });
+// Pealkirja varjamine ja näitamine
+document.getElementById("peidaPealkiri").addEventListener("click", function() {
+    let pealkiri = document.getElementById("pealkiri");
+    if (pealkiri.style.display === "none") {
+        pealkiri.style.display = "block";
+        this.textContent = "Peida pealkiri";
+    } else {
+        pealkiri.style.display = "none";
+        this.textContent = "Näita pealkiri";
+    }
+});
