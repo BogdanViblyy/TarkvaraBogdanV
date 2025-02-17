@@ -14,6 +14,8 @@ Projekti eesmärk on luua lihtne veebileht, kus kasutaja saab nupu vajutamisel m
 3. Peida/näita pealkiri
 4. Loeb, mitu korda on tausta muutmise nuppu vajutatud.
 5. css-i uuendamine
+6. Lisage nupp, mis muudab teksti värvi.
+7. Tee animatsioon taustavärvi vahetusele, et see ei oleks järsk, vaid sujuv.
 ## Kuidas panustada
 1. Tee fork sellest repositooriumist.
 2. Tee muudatused vastavalt TODO listile.
