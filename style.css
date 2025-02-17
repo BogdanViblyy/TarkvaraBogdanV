@@ -3,6 +3,7 @@ body {
     text-align: center;
     padding: 50px;
     background-color: white;
+    /*Tee animatsioon taustavärvi vahetusele, et see ei oleks järsk, vaid sujuv.*/
     transition: background-color 3s ease;
 }
 button {
