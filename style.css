@@ -3,6 +3,7 @@ body {
     text-align: center;
     padding: 50px;
     background-color: white;
+    transition: background-color 3s ease;
 }
 button {
     padding: 10px 20px;
