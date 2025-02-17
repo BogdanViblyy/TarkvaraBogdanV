@@ -24,3 +24,9 @@ document.getElementById("peidaPealkiri").addEventListener("click", function() {
         this.textContent = "Näita pealkiri";
     }
 });
+function getRandomColor() {
+    return "#" + Math.floor(Math.random()*16777215).toString(16);
+}
+document.getElementById("muudaTekstiVarvi").addEventListener("click", function() {
+        document.getElementById("pealkiri").style.color = getRandomColor();
+});
